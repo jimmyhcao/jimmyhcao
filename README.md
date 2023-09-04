@@ -4,7 +4,7 @@
 - <b>Splunk</b>
   - [Security Defense Monitoring (Splunk SIEM Demo)](https://github.com/jimmyhcao/SplunkSIEM)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Quick Links to Project Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
