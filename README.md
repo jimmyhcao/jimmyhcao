@@ -1,5 +1,8 @@
 <h1>Hi, I'm Jimmy! 
 
+<h2>📜 Certifications:</h2>
+- <b>CompTIA Security+</b>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - <b>Splunk</b>
   - [Security Defense Monitoring (Splunk SIEM Demo)](https://github.com/jimmyhcao/SplunkSIEM)
