@@ -5,10 +5,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - <b>Splunk</b>
-- [Security Defense Monitoring (Splunk SIEM Demo)](https://github.com/jimmyhcao/SplunkSIEM)
-
-<b>- Android Hacking</b> 
-[QR Code Social Engineering (Kali Linux SET Demo)](https://github.com/jimmyhcao/)
+- Security Defense Monitoring (Splunk SIEM Demo) (https://github.com/jimmyhcao/SplunkSIEM)
+<br />
+<b>- Social Engineering Toolkit (SET)</b> (Kali Linux) (https://github.com/jimmyhcao/KaliLinuxCredentialHarvesting)
+<br />
+<b>- MSFvenom</b> (Kali Linux) (https://github.com/jimmyhcao/KaliLinuxAPK)
 
 
 <h2>📺 Quick Links to Project Videos</h2>
