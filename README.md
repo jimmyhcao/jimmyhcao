@@ -5,7 +5,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - <b>Splunk</b>
-  - [Security Defense Monitoring (Splunk SIEM Demo)](https://github.com/jimmyhcao/SplunkSIEM)
+- [Security Defense Monitoring (Splunk SIEM Demo)](https://github.com/jimmyhcao/SplunkSIEM)
+
+<b>- Android Hacking</b> 
+[QR Code Social Engineering (Kali Linux SET Demo)](https://github.com/jimmyhcao/)
+
 
 <h2>📺 Quick Links to Project Videos</h2>
 
