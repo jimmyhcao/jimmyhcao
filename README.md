@@ -15,7 +15,8 @@
 <h2>📺 Quick Links to Project Videos</h2>
 
 - [Splunk SIEM](https://youtu.be/dWWHM_K7HwY)
-
+- [Kali Linux SET](https://youtu.be/QLil4X2mBws)
+- [MSFvenom](https://youtu.be/GiODh2SpzTw)
 
 <h2> 🤳 Connect with me:</h2>
 
