@@ -1,5 +1,6 @@
-<h1>Hi, I'm Jimmy! 
-
+<h1>Hi, I'm Jimmy! 👋 </h1>
+Global Security @ Meta | Information & Cybersecurity Engineering @ UC Berkeley ('23)
+<p></p>
 <h2>📜 Certifications:</h2>
 - <b>CompTIA Security+</b>
 
