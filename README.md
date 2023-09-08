@@ -11,7 +11,7 @@ Global Security @ Meta | Information & Cybersecurity Engineering @ UC Berkeley (
 <b>- Social Engineering Toolkit (SET)</b> (Kali Linux) (https://github.com/jimmyhcao/KaliLinuxCredentialHarvesting)
 <br />
 <b>- MSFvenom</b> (Kali Linux) (https://github.com/jimmyhcao/KaliLinuxAPK)
-
+<b>- Windows Administration and Hardening</b> (Active Directory)(https://github.com/jimmyhcao/WindowsActiveDirectoryDomainServices/blob/main/README.md)
 
 <h2>📺 Quick Links to Project Videos</h2>
 
