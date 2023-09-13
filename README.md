@@ -2,6 +2,19 @@
 
 Welcome to my GitHub profile, your gateway to a world of cybersecurity innovation and expertise. Here, you'll find a curated collection of projects that reflect my passion for safeguarding digital landscapes and defending against ever-evolving threats. With a focus on proactive security measures, incident response, and ethical hacking, my work encompasses a wide range of cybersecurity domains. Explore these projects to gain insights into my commitment to fortifying digital realms, enhancing resilience, and fostering a safer online environment for all. Whether you're a fellow enthusiast, a security professional, or just curious about the fascinating world of cybersecurity, you'll discover valuable resources and insights within these repositories. Dive in and join me on the quest to make cyberspace a more secure place.
 
+
+<br>🛡️ My Arsenal:
+
+<li>Ethical Hacking & Penetration Testing
+<li>Security Awareness & Training
+<li>Threat Detection & Incident Response
+<li>Network & Application Security
+<li>Cryptography & Secure Communication</li>
+
+
+
+
+
 <h2>📜 Certifications:</h2>
 - <b>CompTIA Security+</b>
 
