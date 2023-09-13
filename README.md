@@ -23,7 +23,7 @@ Global Security @ Meta | Information & Cybersecurity Engineering @ UC Berkeley (
 
 
 
-<h2>📺 Quick Links to Project Videos</h2>
+<h2>📺 Project Videos</h2>
 
 - [Splunk SIEM](https://youtu.be/dWWHM_K7HwY)
 - [Kali Linux SET](https://youtu.be/QLil4X2mBws)
