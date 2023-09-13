@@ -17,12 +17,6 @@ Global Security @ Meta | Information & Cybersecurity Engineering @ UC Berkeley (
 
 
 
-
-
-
-
-
-
 <h2>📺 Project Videos</h2>
 
 - [Splunk SIEM](https://youtu.be/dWWHM_K7HwY)
