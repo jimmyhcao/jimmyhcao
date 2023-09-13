@@ -5,13 +5,23 @@ Global Security @ Meta | Information & Cybersecurity Engineering @ UC Berkeley (
 - <b>CompTIA Security+</b>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-- <b>Splunk</b>
-- Security Defense Monitoring (Splunk SIEM Demo) (https://github.com/jimmyhcao/SplunkSIEM)
-<br />
-<b>- Social Engineering Toolkit (SET)</b> (Kali Linux) (https://github.com/jimmyhcao/KaliLinuxCredentialHarvesting)
-<br />
-<b>- MSFvenom</b> (Kali Linux) (https://github.com/jimmyhcao/KaliLinuxAPK)
-<br /><b>- Windows Administration and Hardening</b> (Active Directory)(https://github.com/jimmyhcao/WindowsActiveDirectoryDomainServices/blob/main/README.md)
+<li><b>Splunk</b>- Security Defense Monitoring <a href="https://github.com/jimmyhcao/SplunkSIEM"> (Spunk SIEM Demo)</a>
+
+<li><b>Social Engineering Toolkit (SET)</b> - Kali Linux <a href="https://github.com/jimmyhcao/KaliLinuxCredentialHarvesting"> (Demo)</a>
+
+<li><b>MSFvenom</b> - Kali Linux <a href="https://github.com/jimmyhcao/KaliLinuxAPK"> (Demo)</a>
+
+<li><b>Windows Administration and Hardening</b> - Active Directory <a href="https://github.com/jimmyhcao/WindowsActiveDirectoryDomainServices/blob/main/README.md"> Demo</a>
+
+<li><b>Bash Scripting</b> <a href="https://github.com/jimmyhcao/CowSayScheduling-"> Demo</a>
+
+
+
+
+
+
+
+
 
 <h2>📺 Quick Links to Project Videos</h2>
 
