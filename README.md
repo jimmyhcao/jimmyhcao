@@ -21,6 +21,10 @@ Welcome to my GitHub profile, your gateway to a world of cybersecurity innovatio
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <li><b>Splunk</b>- Security Defense Monitoring <a href="https://github.com/jimmyhcao/SplunkSIEM"> (Spunk SIEM Demo)</a>
 
+<li><b>Cloud Security</b> - Microsoft Azure <a href="https://github.com/jimmyhcao/CloudSecurity"> (Demo) </a>
+                                              
+</li>
+
 <li><b>Social Engineering Toolkit (SET)</b> - Kali Linux <a href="https://github.com/jimmyhcao/KaliLinuxCredentialHarvesting"> (Demo)</a>
 
 <li><b>MSFvenom</b> - Kali Linux <a href="https://github.com/jimmyhcao/KaliLinuxAPK"> (Demo)</a>
