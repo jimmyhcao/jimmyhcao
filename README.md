@@ -16,7 +16,7 @@ Welcome to my GitHub profile, your gateway to a world of cybersecurity innovatio
 
 
 <h2>📜 Certifications:</h2>
-- <b>CompTIA Security+</b>
+<li><b>CompTIA Security+</b></li>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <li><b>Splunk</b>- Security Defense Monitoring <a href="https://github.com/jimmyhcao/SplunkSIEM"> Spunk SIEM Demo</a>
@@ -37,9 +37,14 @@ Welcome to my GitHub profile, your gateway to a world of cybersecurity innovatio
 
 <h2>📺 Project Videos</h2>
 
-- [Splunk SIEM](https://youtu.be/dWWHM_K7HwY)
-- [Kali Linux SET](https://youtu.be/QLil4X2mBws)
-- [MSFvenom](https://youtu.be/GiODh2SpzTw)
+<li> [Splunk SIEM](https://youtu.be/dWWHM_K7HwY)
+<li> [Kali Linux SET](https://youtu.be/QLil4X2mBws)
+<li> [MSFvenom](https://youtu.be/GiODh2SpzTw)
+
+<h2> 🚧 Work In Progress</h2>
+<li>Exam SC-200: Microsoft Security Operations Analyst
+<li>Home Lab Project - CyberLab Warfare: Red Team vs. Blue Team Battle  </li>
+
 
 <h2> 🤳 Connect with me:</h2>
 
