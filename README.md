@@ -43,7 +43,8 @@ Welcome to my GitHub profile, your gateway to a world of cybersecurity innovatio
 
 <h2> 🚧 Work In Progress</h2>
 <li>Exam SC-200: Microsoft Security Operations Analyst
-<li>Home Lab Project - CyberLab Warfare: Red Team vs. Blue Team Battle  </li>
+<li>Home Lab Project - CyberLab Warfare: Red Team vs. Blue Team Battle 
+<li>Malware Traffic Analysis - Wireshark</li>
 
 
 <h2> 🤳 Connect with me:</h2>
