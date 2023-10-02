@@ -42,7 +42,7 @@ Welcome to my GitHub profile, your gateway to a world of cybersecurity innovatio
 <li> [MSFvenom](https://youtu.be/GiODh2SpzTw)
 
 <h2> 🚧 Work In Progress</h2>
-<li>Exam SC-200: Microsoft Security Operations Analyst
+<li>CompTIA CySA+
 <li>Home Lab Project - CyberLab Warfare: Red Team vs. Blue Team Battle 
 <li>Malware Traffic Analysis - Wireshark</li>
 
