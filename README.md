@@ -29,7 +29,7 @@ Welcome to my GitHub profile, your gateway to a world of cybersecurity innovatio
 
 <li><b>MSFvenom</b> - Kali Linux <a href="https://github.com/jimmyhcao/KaliLinuxAPK"> Demo</a>
 
-<li><b>Windows Administration and Hardening</b> - Active Directory <a href="https://github.com/jimmyhcao/WindowsActiveDirectoryDomainServices/blob/main/README.md"> Demo</a>
+<li><b>Windows Administration and Hardening</b> - Active Directory <a href="https://github.com/jimmyhcao/WindowsActiveDirectoryDomainServices/tree/main"> Demo</a>
 
 <li><b>Bash Scripting</b> <a href="https://github.com/jimmyhcao/CowSayScheduling-"> Demo</a>
 
