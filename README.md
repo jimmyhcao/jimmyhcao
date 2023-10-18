@@ -20,8 +20,8 @@ Welcome to my GitHub profile, your gateway to a world of cybersecurity innovatio
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <li><b>Splunk</b>- Security Defense Monitoring <a href="https://github.com/jimmyhcao/SplunkSIEM"> Spunk SIEM Demo</a>
-
-<li><b>Cloud Security</b> - Microsoft Azure <a href="https://github.com/jimmyhcao/CloudSecurity"> Demo </a>
+<li><b>Amazon Web Services (AWS)</b> - <a href="https://github.com/jimmyhcao/CloudSecurity"> Repository </a>
+<li><b>Microsoft Azure</b> -  <a href="https://github.com/jimmyhcao/CloudSecurity"> Repository </a>
                                               
 </li>
 
@@ -44,7 +44,6 @@ Welcome to my GitHub profile, your gateway to a world of cybersecurity innovatio
 <h2> 🚧 Work In Progress</h2>
 <li>Try Hack Me Write Up Repository
 <li>CompTIA CySA+
-<li>Amazon Web Services (AWS) Repository
 <li> AWS Certified Cloud Practitioner Certification
 <li>Home Lab Project - CyberLab Warfare: Red Team vs. Blue Team Battle 
 <li>Malware Traffic Analysis - Wireshark</li>
