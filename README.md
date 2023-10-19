@@ -42,7 +42,7 @@ Welcome to my GitHub profile, your gateway to a world of cybersecurity innovatio
 <li> [MSFvenom](https://youtu.be/GiODh2SpzTw)
 
 <h2> 🚧 Work In Progress</h2>
-<li>Try Hack Me Write Up Repository
+<li>Try Hack Me Write Up Repository  <a href="https://github.com/jimmyhcao/HackQuestMyTryHackMeJourney#readme"> Write Ups</a>
 <li>CompTIA CySA+
 <li> AWS Certified Cloud Practitioner Certification
 <li>Home Lab Project - CyberLab Warfare: Red Team vs. Blue Team Battle 
